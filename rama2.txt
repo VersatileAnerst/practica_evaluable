@@ -1,0 +1,2 @@
+Texto de rama2.txt
+lorem ipsum dolor sit amet
