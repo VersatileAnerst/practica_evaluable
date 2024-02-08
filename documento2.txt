@@ -1,0 +1,2 @@
+Texto documento2.txt
+Texto de relleno de documento2.txt
