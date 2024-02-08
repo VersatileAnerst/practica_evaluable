@@ -1,0 +1,2 @@
+Texto documento1.txt
+texto de relleno para el doxcumento 1 
