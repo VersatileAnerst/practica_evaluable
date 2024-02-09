@@ -1,10 +1,17 @@
 He creado una carpeta donde realizar cambios con el comando mkdir(Crea un directorio) y me he metido dentro con cd y he iniciado con git init
+
 Cree dos archivos con echo aunque se puede crear con nano y añadir texto. Añadimos el documento al workspace con git add
+
 Validamos lor archivos con git commit -m "Texto de validacion" y realice cambios y los valide nuevamente con git commit
+
 Para revertir los cambios utilize git log para ver el ultimo commit y con git reset --hard y el codigo del commit
-Abrimos el documento para comprobar que se ha revertido el cambio con nanoç
+
+Abrimos el documento para comprobar que se ha revertido el cambio con nano
+
 Creamos un nuevo documento, lo añadimos con git add y lo validamos con git commit
+
 Hacemos un git reset --hard HEAD y se reviert el ultimo commit. Hacemos un ls para comprobar que el documento recien creado no existe
+
 Creamos un repositorio en github y lo conectamos con el repositorio con git remote add origin (enlace)
 Creamos una rama con git checkout -b mirama, creamos dos archivos dentro de la rama y los validamos.
 Fusionamos las dos ramas desde la principal con el comando git merge mirama y con git branch -d mirama eliminamos la otra rama
