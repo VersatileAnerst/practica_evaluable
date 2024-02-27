@@ -32,7 +32,7 @@ Realizamos cambios en la rama main en un documento distinto lo validamos y lo su
 
 Mostramos los commits realizados con git log --oneline
 
-Fusionamos las dos ramas con gti merge, borramos la rama mirama lo sincronizamos con el remoto y mostramos las ramas con git branch -a
+Fusionamos las dos ramas con git merge, borramos la rama mirama lo sincronizamos con el remoto y mostramos las ramas con git branch -a
 
 Creamos otra vez la rama mirama y realizamos cambios diferentes con nano al documento modificado en la rama principal
 
